@@ -1,3 +1,17 @@
+## Alunos: 
+<p>Angela Reis Afonso</p>
+<p>Caio Yukio Sasaki</p>
+<p>Henrique Pereira da Silva </p>
+<p>Geovane Juio Candido Ferreira Milani</p>
+
+## Repositorios
+
+<a>https://github.com/AngelaAfonso/Profissoes.git</a>
+<a>https://github.com/HenriquePsDev/Desenvolvedordesoftware.git</a>
+<a>https://github.com/CaIO-682/Pericia.git</a>
+<a>https://github.com/Geovane-Julio/profissoes.git</a>
+
+
 # Designer Visual  
 
 ## O que é?  
